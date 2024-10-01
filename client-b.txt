@@ -4,17 +4,17 @@
 
 # Find the spot #
 
-# Point A (point 1 to 10) to Point B (point 1 to 20 but Point B != Point A) #
+# Point A (point 1 to 10) to Point B (point 1 to 10 but Point B != Point A) #
 
-# Total points = 20 #
+# Total points = 10 #
 
 # Point A = Current Point #
-	# Point A = (1 through 90) #
-		# # = (1 through 90) = A(#) #
+	# Point A = (1 through 10) #
+		# # = (1 through 10) = A(#) #
 
 # Point B = Destination #
-	# Point B = (1 through 90 but not = A) #
-		# # = (1 through 90 but not = A) = B(#) #
+	# Point B = (1 through 10 but not = A) #
+		# # = (1 through 10 but not = A) = B(#) #
 
 Input:
 # A(1) + B(2) =  
