@@ -2,3 +2,45 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+# guessthynumber_guessing game #
+
+# Description: The computer chooses a random number between 1 and 10. #
+# Player has 3 chances to guess number #
+
+# Start Program #
+
+# Print guessthynumber #
+
+# Define number #
+	# Computer chooses one random number within parameters (1 2 3 4 5 6 7 8 9 10) c=(#) #
+
+# Chance 1: Player chooses one number of choice within parameters (1 2 3 4 5 6 7 8 9 10) p=(#) #
+
+# Does c=p? Y or N
+	# If Y, display "WINNER" #
+
+	# If N, display "Try Again!" #
+
+
+# Computer keeps same c=(#) #
+
+# Chance 2: Player chooses one number of choice within parameters (1 2 3 4 5 6 7 8 9 10) p=(#) #
+
+# Does c=p? Y or N #
+        # If Y, display "WINNER" #
+
+        # If N, display "Try Again! Last Chance!" #
+
+
+# Computer keeps same c=(#) #
+
+# Chance 3: Player chooses one number of choice within parameters (1 2 3 4 5 6 7 8 9 10) p=(#) #
+
+# Does c=p? Y or N #
+        # If Y, display "WINNER" #
+
+        # If N, display "Try Again! Game Over!" #
+
+# Restart #
+
+# New Player #
